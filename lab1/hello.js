@@ -16,3 +16,15 @@ console.log(add(3, 7));
 console.log(add2(2, 4));
 
 
+
+
+//react frontend
+// VEW.js
+// FLASK
+// Angular
+// css 
+// (BOOTSTRAP)
+// Tailwind
+
+//Backend
+//Node.js, Springboot, Fast API, Django, PHP
